@@ -1,0 +1,11 @@
+U1	/
+U1	subscribers
+U2	/
+U2	subscribers
+U1	filter
+U1	export
+U2	filter
+U2	export
+U3	/
+U3	catalog
+U3	edit
